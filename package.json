@@ -1,0 +1,1 @@
+{"name":"sexpr","version":"1.0.0","description":"S-expression parser from scratch","type":"module","scripts":{"test":"node --test src/**/*.test.js"}}
